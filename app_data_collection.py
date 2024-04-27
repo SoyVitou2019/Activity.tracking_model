@@ -46,10 +46,10 @@ root.attributes("-topmost", True)  # Set window to always stay on top
 
 # Create buttons for each screen
 btn_screen1 = tk.Button(root, text="Capture Screen 1", command=capture_screen1)
-btn_screen1.pack(pady=10)
+btn_screen1.pack(padx=80, pady=30)
 
 btn_screen2 = tk.Button(root, text="Capture Screen 2", command=capture_screen2)
-btn_screen2.pack(pady=10)
+btn_screen2.pack(padx=80, pady=30)
 
 # Run the tkinter event loop
 root.mainloop()
