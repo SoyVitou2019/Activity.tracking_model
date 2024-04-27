@@ -1,0 +1,46 @@
+Dataset collection
+
+- Desktop Screenshot
+- Screen pc more than one
+- Screenshot when mouse focus on which screen
+- main problem
+	- which screen should be record?
+	- when should be record?
+
+
+Methodology options
+
+1. Classify activity just using application title
+2. Classify activity using image processing ( deep learning )
+
++ Why using option 2
+- image processing can classify inside what did you do inside the application. Enjoy moment or study moment ?
+- Convenience for user, working in background and auto startup.
+
+
++ studying application
+- word
+- youtube
+- setting desktop
+- google map
+- vs code
+- chrome
+- miscroft edges
+- capcut
+- canva
+- chatgpt
+- one drive
+- gmail
+- Ms team
+- Stack overflow
+- github
+- POE 
+- Vue
+
++ enjoying application
+- mobile legends bang bang
+- free fire
+- live game
+
+
+
